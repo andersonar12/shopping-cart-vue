@@ -1,5 +1,6 @@
-# carrito-vue3-vuex
-
+# shopping-cart-vue
+![Screenshot](1.png)
+ ![Screenshot](2.png) 
 ## Project setup
 ```
 npm install
